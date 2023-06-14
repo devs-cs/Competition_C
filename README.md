@@ -1,2 +1,1 @@
-"# Competition_C" 
-# Competition_C
+Some of the code I have wrote in C++ for competitions
